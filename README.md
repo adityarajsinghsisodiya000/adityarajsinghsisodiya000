@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Aditya Raj Singh Sisodiya ðŸ‘‹
+# Hi, I'm Aditya Raj Singh Sisodiya 👋
 
-**Full Stack Developer Â· Python Â· React/Next.js Â· AI/ML**
+**Full Stack Developer · Python · React/Next.js · AI/ML**
 
-I build **local-first, AI-powered applications** that respect your privacy and run without the cloud. Currently engineering [ClipAsura](https://github.com/adityarajsinghsisodiya000/ClipAsura) â€” an offline AI video-clipping desktop app.
+I build **local-first, AI-powered applications** that respect your privacy and run without the cloud. Currently engineering [ClipAsura](https://github.com/adityarajsinghsisodiya000/ClipAsura) — an offline AI video-clipping desktop app.
 
 ---
 
@@ -16,16 +16,16 @@ I build **local-first, AI-powered applications** that respect your privacy and r
 
 ---
 
-## ðŸš€ About Me
+## 🚀 About Me
 
-- ðŸ’» **Full Stack Developer** â€” building with **Python, FastAPI, TypeScript, Next.js, React**
-- ðŸ¤– **AI / ML enthusiast** â€” speech analysis, whisper transcription, highlight detection, offline models
-- ðŸ› ï¸ Strong backend engineering: REST/WebSocket APIs, job queues, FFmpeg pipelines, desktop apps
-- ðŸŒ From **Chittorgarh, Rajasthan, India**
-- ðŸ”­ Currently working on: **ClipAsura** â€” AI video clipping, fully offline & free
-- ðŸŒ± Always learning: distributed systems, GPU optimization, production-grade packaging
+- 💻 **Full Stack Developer** — building with **Python, FastAPI, TypeScript, Next.js, React**
+- 🤖 **AI / ML enthusiast** — speech analysis, whisper transcription, highlight detection, offline models
+- 🛠️ Strong backend engineering: REST/WebSocket APIs, job queues, FFmpeg pipelines, desktop apps
+- 🌍 From **Chittorgarh, Rajasthan, India**
+- 🔭 Currently working on: **ClipAsura** — AI video clipping, fully offline & free
+- 🌱 Always learning: distributed systems, GPU optimization, production-grade packaging
 
-## ðŸ§° Tech Stack
+## 🧰 Tech Stack
 
 **Languages & Frameworks**
 
@@ -45,23 +45,23 @@ I build **local-first, AI-powered applications** that respect your privacy and r
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
-## ðŸ“Œ Featured Projects
+## 📌 Featured Projects
 
-### [ðŸŽ¬ ClipAsura â€” The Demon That Creates Viral Shorts](https://github.com/adityarajsinghsisodiya000/ClipAsura)
+### [🎬 ClipAsura — The Demon That Creates Viral Shorts](https://github.com/adityarajsinghsisodiya000/ClipAsura)
 
-A **free, offline, local-first AI video clipping desktop app**. Paste a YouTube URL or upload a video â†’ it analyzes content, detects the best moments, and generates vertical 1080x1920 60FPS clips with animated captions â€” ready for Shorts / Reels / TikTok. No paid APIs, no cloud, no login.
+A **free, offline, local-first AI video clipping desktop app**. Paste a YouTube URL or upload a video → it analyzes content, detects the best moments, and generates vertical 1080x1920 60FPS clips with animated captions — ready for Shorts / Reels / TikTok. No paid APIs, no cloud, no login.
 
-**Built with:** Python Â· FastAPI Â· Electron Â· Whisper Â· OpenCV Â· FFmpeg
-[ðŸ”— View Project](https://github.com/adityarajsinghsisodiya000/ClipAsura)
+**Built with:** Python · FastAPI · Electron · Whisper · OpenCV · FFmpeg
+[🔗 View Project](https://github.com/adityarajsinghsisodiya000/ClipAsura)
 
-### [ðŸŒ JP-Tour-Travels â€” Travel Booking Platform](https://github.com/adityarajsinghsisodiya000/JP-Tour-Travels)
+### [🌍 JP-Tour-Travels — Travel Booking Platform](https://github.com/adityarajsinghsisodiya000/JP-Tour-Travels)
 
 A full-stack tourism & travel booking web application with modern UI and database-backed features.
 
-**Built with:** TypeScript Â· Next.js Â· Supabase Â· Tailwind CSS
-[ðŸ”— View Project](https://github.com/adityarajsinghsisodiya000/JP-Tour-Travels)
+**Built with:** TypeScript · Next.js · Supabase · Tailwind CSS
+[🔗 View Project](https://github.com/adityarajsinghsisodiya000/JP-Tour-Travels)
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -70,11 +70,11 @@ A full-stack tourism & travel booking web application with modern UI and databas
 
 </div>
 
-## ðŸ“¬ Let's Connect
+## 📬 Let's Connect
 
-- ðŸ’¼ LinkedIn: [Aditya Raj Singh Sisodiya](https://www.linkedin.com/in/adityaraj-singh-sisodiya-38214529b/)
-- ðŸ–¥ï¸ Portfolio / Live site: [baneshwari.gt.tc](https://baneshwari.gt.tc/)
-- ðŸ“§ Open to opportunities â€” reach out anytime on LinkedIn!
+- 💼 LinkedIn: [Aditya Raj Singh Sisodiya](https://www.linkedin.com/in/adityaraj-singh-sisodiya-38214529b/)
+- 🖥️ Portfolio / Live site: [baneshwari.gt.tc](https://baneshwari.gt.tc/)
+- 📧 Open to opportunities — reach out anytime on LinkedIn!
 
 ---
 
