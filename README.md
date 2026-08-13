@@ -9,8 +9,8 @@ I build **local-first, AI-powered applications** that respect your privacy and r
 ---
 
 [![GitHub followers](https://img.shields.io/github/followers/adityarajsinghsisodiya000?style=social)](https://github.com/adityarajsinghsisodiya000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-Reach%20Me-red?logo=gmail&style=flat)](mailto:YOUREMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/adityaraj-singh-sisodiya-38214529b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=globe&style=flat)](https://baneshwari.gt.tc/)
 
 </div>
 
@@ -72,8 +72,9 @@ A full-stack tourism & travel booking web application with modern UI and databas
 
 ## ðŸ“¬ Let's Connect
 
-- ðŸ“§ Email: `YOUREMAIL@example.com`
-- ðŸ’¼ LinkedIn: [Aditya Raj Singh Sisodiya](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- ðŸ’¼ LinkedIn: [Aditya Raj Singh Sisodiya](https://www.linkedin.com/in/adityaraj-singh-sisodiya-38214529b/)
+- ðŸ–¥ï¸ Portfolio / Live site: [baneshwari.gt.tc](https://baneshwari.gt.tc/)
+- ðŸ“§ Open to opportunities â€” reach out anytime on LinkedIn!
 
 ---
 
